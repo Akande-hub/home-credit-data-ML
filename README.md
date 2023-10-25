@@ -1,1 +1,3 @@
 # home-credit-data-ML
+
+Given a reduced version of the home credit data (attached in the form of a CSV file). The full data [Gro18] can be accessed at the following url:https://www.kaggle.com/code/thomasseleck/extensive-eda-for-all-features-of-home-credit-data/data. This has 23 columns, with the first 22 representing features and the last one being the target variable (0 or 1). Note that this is a highly imbalanced dataset. The following are the required tasks (problem statement). Some of the columns contain non-numeric (can be categorical) data. The choice is left to the user to use/drop them (or any column for that matter). Lastly, please split (using any standard random splitting routine) the given data in an 80-20 or 70-30 fashion (train-test ratio).
